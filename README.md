@@ -139,34 +139,27 @@ http://sqxt2-env.eba-k423m3gi.us-east-2.elasticbeanstalk.com/
 
 > ## Estrutura do Projeto
 ```
-desafio-final-banco-pan-X
-├── Arquivos db
-├── bluebankx
-│	├── .mvn/wrapper
-│	├── src
-│	│   ├── main
-│	│   │   ├── java/com/panacademy/grupox/bluebankx
-│	│   │   │   ├── config
-│	│   │   │   ├── controller
-│	│   │   │   ├── dao
-│	│   │   │   ├── dto
-│	│   │   │   ├── helpers
-│	│   │   │   ├── models
-│	│   │   │   ├── service
-│	│   │   │   └── BlueBankXApplication.java
-│	│   │   └── resources
-│	│   └── test
-│	│       └── java/com/panacademy/grupox/bluebankx
-│	├── .gitignore
-│	├── README.md
-│	├── buildspec.yml
-│	├── README.md
-│	├── mvnw
-│	├── mvnw.cmd
-│	└── pom.xml
+bluebankx
+├── .mvn/wrapper
+├── src
+│   ├── main
+│   │   ├── java/com/panacademy/grupox/bluebankx
+│   │   │   ├── config
+│   │   │   ├── controller
+│   │   │   ├── dao
+│   │   │   ├── dto
+│   │   │   ├── helpers
+│   │   │   ├── models
+│   │   │   ├── service
+│   │   │   └── BlueBankXApplication.java
+│   │   └── resources
+│   └── test
+│       └── java/com/panacademy/grupox/bluebankx
 ├── .gitignore
-└── README.md
+├── README.md
+├── buildspec.yml
+├── README.md
+├── mvnw
+├── mvnw.cmd
+└── pom.xml
 ```
-
-> ## Diagrama entidade relacionamento - DER
-![1](../desafio-final-banco-pan-X/ArquivosDB/DERsquadX.png)
